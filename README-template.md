@@ -97,6 +97,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - https://css-tricks.com/lodge/svg/06-using-svg-svg-background-image/
 
+- https://www.w3docs.com/css3-maker/box-shadow
+
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
