@@ -79,8 +79,16 @@ body {
   align-items: center;
 }
 
-.hero {
-  height: 100%;
+.hero-svg {
+  border-radius: 15px 15px 0px 0px;
+}
+
+h2, h5 {
+  color: hsl(245, 47%, 23%);
+}
+
+p {
+  color: hsl(224, 23%, 55%);
 }
 
 .card {
@@ -88,5 +96,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: hsl(225, 100%, 98%);
+  border-radius: 15px;
+  background-color: white;
 }/*# sourceMappingURL=main.css.map */

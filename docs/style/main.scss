@@ -16,8 +16,16 @@ body {
     align-items: center;
 }
 
-.hero {
-    height: 100%;
+.hero-svg {
+    border-radius: 15px 15px 0px 0px;
+}
+
+h2, h5 {
+    color: $dark-blue;
+}
+
+p {
+    color: $desat-blue;
 }
 
 .card {
@@ -25,5 +33,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: $pale-blue2;
+    border-radius: 15px;
+    background-color: white;
 }
