@@ -1,0 +1,81 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+h2, h5 {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+h2 {
+  font-weight: 900;
+}
+
+h5 {
+  font-weight: 700;
+}
+
+div {
+  display: flex;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+h2, h5 {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+h2 {
+  font-weight: 900;
+}
+
+h5 {
+  font-weight: 700;
+}
+
+div {
+  display: flex;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(pattern-background-desktop.svg);
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(225, 100%, 98%);
+}/*# sourceMappingURL=main.css.map */
