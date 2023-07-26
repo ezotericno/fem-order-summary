@@ -1,7 +1,0 @@
-@im @import "config";
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-image: url(pattern-background-desktop.svg);
-}/*# sourceMappingURL=main.css.map */
