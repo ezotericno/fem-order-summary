@@ -65,8 +65,10 @@ div {
 }
 
 html {
+  background-color: hsl(225, 100%, 94%);
   background-image: url(/docs/pattern-background-desktop.svg);
   height: 100vh;
+  background-repeat: no-repeat;
 }
 
 body {

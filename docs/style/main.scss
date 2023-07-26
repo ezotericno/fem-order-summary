@@ -2,8 +2,10 @@
 @import 'config';
 
 html {
+    background-color: $pale-blue;
     background-image: url(/docs/pattern-background-desktop.svg);
     height: 100vh;
+    background-repeat: no-repeat;
 }
 
 body {
