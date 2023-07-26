@@ -9,3 +9,10 @@ body {
     align-items: center;
     background-image: url(pattern-background-desktop.svg);
 }
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $pale-blue2;
+}
