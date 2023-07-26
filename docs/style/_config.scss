@@ -15,6 +15,7 @@ p {
     font-size: 16px;
     font-weight: 500;
     font-family: 'Red Hat Display', sans-serif;
+    text-align: center;
 }
 
 h2, h5 {
@@ -31,4 +32,9 @@ h5 {
 
 div {
     display: flex;
+}
+
+a {
+    font-weight: 500;
+    font-family: 'Red Hat Display', sans-serif;
 }
