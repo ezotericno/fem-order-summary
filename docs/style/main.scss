@@ -92,6 +92,11 @@ p {
     box-shadow:0px 20px 15px $pale-blue;
 }
 
+.pay-btn:hover {
+    background: $desat-blue;
+    box-shadow: 0px 20px 15px $desat-blue;
+}
+
 .cancel {
     text-decoration: none;
     font-weight: 900;
@@ -99,4 +104,9 @@ p {
     color: $desat-blue;
     margin-bottom: 35px;
     margin-top: 40px;
+}
+
+.cancel:hover {
+    background: $pale-blue;
+    box-shadow: 0px 10px 5px $pale-blue;
 }
