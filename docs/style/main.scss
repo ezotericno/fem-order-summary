@@ -35,7 +35,7 @@ p {
     align-items: center;
     border-radius: 15px;
     background-color: white;
-    margin-top: 20%;
+    margin-top: 10%;
 }
 
 .box {
@@ -45,6 +45,8 @@ p {
     justify-content: center;
     align-items: center;
     border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .words {
@@ -63,6 +65,7 @@ p {
 }
 
 .change {
+    font-weight: 700;
     margin-left: 60px;
     margin-right: 25px;
     font-size: 15px;
@@ -74,6 +77,7 @@ p {
 }
 
 .pay-btn {
+    cursor: pointer;
     background-color: $bright-blue;
     color: white;
     border: 0;
@@ -82,10 +86,17 @@ p {
     padding-right: 90px;
     padding-top: 15px;
     padding-bottom: 15px;
+    margin-top: 40px;
+    -moz-box-shadow:0px 20px 15px $pale-blue;
+    -webkit-box-shadow:0px 20px 15px $pale-blue;
+    box-shadow:0px 20px 15px $pale-blue;
 }
 
 .cancel {
     text-decoration: none;
     font-weight: 900;
+    font-size: 13px;
     color: $desat-blue;
+    margin-bottom: 35px;
+    margin-top: 40px;
 }
