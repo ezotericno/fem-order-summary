@@ -6,7 +6,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [The Result](#the-result)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,9 +24,9 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### The Result
+### The result
 
-![](./screenshot.jpg)
+![result](femordersumm.PNG)
 
 ### Links
 
@@ -49,7 +49,7 @@ Since my last challenge I got my workflow better set. The first thing I did was 
 
 ### What I learned
 
-I actaully used most of my previous knowledge for this project. The two links below are the only things I had to look up. I learned from all the trial and error from the last challenge and was able to finish this relatively quickly. Using every tool at my desposal, and setting up my environment correctly was the keys to success this time around. 
+I actaully used most of my previous knowledge for this project. The two links below are the only things I had to look up. I learned from all the trial and error from the last challenge and was able to finish this relatively quickly. Using every tool at my desposal, and setting up my environment correctly was the keys to success this time around. Using ```:hover``` and ```cursor: pointer;``` I was able to make both buttons on the card responsive. I also learned a decent amount about how to interact with .svg files and how to use them for builds. 
 
 
 ### Continued development
@@ -64,7 +64,7 @@ I wanted to incorperate ```@mixin```'s or other cools things from Sass, but this
 
 ## Author
 
-- Website - [@ezotericno](https://github.com/ezotericno)
+- Github - [@ezotericno](https://github.com/ezotericno)
 - Frontend Mentor - [@ezotericno](https://www.frontendmentor.io/profile/ezotericno)
 
 
