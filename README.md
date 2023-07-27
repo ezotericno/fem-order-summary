@@ -26,7 +26,7 @@ Users should be able to:
 
 ### The Result
 
-![](./screenshot.jpg)
+![result](femordersumm.PNG)
 
 ### Links
 
@@ -64,7 +64,7 @@ I wanted to incorperate ```@mixin```'s or other cools things from Sass, but this
 
 ## Author
 
-- Website - [@ezotericno](https://github.com/ezotericno)
+- Github - [@ezotericno](https://github.com/ezotericno)
 - Frontend Mentor - [@ezotericno](https://www.frontendmentor.io/profile/ezotericno)
 
 
