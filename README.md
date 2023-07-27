@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Repo Link](https://github.com/ezotericno/fem-order-summary/tree/main/docs)
+- [Pages Link](https://ezotericno.github.io/fem-order-summary/)
 
 ## My process
 
